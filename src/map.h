@@ -10,7 +10,7 @@
 
 class Map {
 public:
-	
+
 	struct single_landmark_s{
 
 		int id_i ; // Landmark ID
